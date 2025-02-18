@@ -1,0 +1,4 @@
+{
+    "unique_name": "crypto_price_checker",
+    "matching_hotwords": ["crypto", "cryptocurrency", "bitcoin", "ethereum"]
+}
